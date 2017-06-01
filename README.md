@@ -10,3 +10,5 @@
 <br/>
 <h3>Handler Class</h3>
 <p>The handler class in h_rest.php file does the following:<br>The run() function gets the script tried to access, the data sent, the http method used and the http scheme used. It checks if the function exists in the name of a function and executes it. After getting a result from these process, it calls the response() funtion of the REST object and sends the dataset.</p>
+<br/>
+<p>For more description about the RESTful Architecture, check out my <a href="http://sudocoding.xyz/restfull-implementation-using-php/" target="_blank" >blog.</a></p>
